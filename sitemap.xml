@@ -2,31 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/posts/dillinger/</loc>
+    <loc>https://peplem.github.io/blog/posts/dillinger/</loc>
     <lastmod>2021-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/emoji/</loc>
+    <loc>https://peplem.github.io/blog/tags/emoji/</loc>
     <lastmod>2021-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://peplem.github.io/blog/</loc>
     <lastmod>2021-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://peplem.github.io/blog/posts/</loc>
     <lastmod>2021-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://peplem.github.io/blog/tags/</loc>
     <lastmod>2021-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/archives.fr/</loc>
+    <loc>https://peplem.github.io/blog/archives.fr/</loc>
   </url><url>
-    <loc>https://example.com/archives/</loc>
+    <loc>https://peplem.github.io/blog/archives/</loc>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://peplem.github.io/blog/categories/</loc>
   </url><url>
-    <loc>https://example.com/search/</loc>
+    <loc>https://peplem.github.io/blog/search/</loc>
   </url><url>
-    <loc>https://example.com/search.fr/</loc>
+    <loc>https://peplem.github.io/blog/search.fr/</loc>
   </url><url>
-    <loc>https://example.com/series/</loc>
+    <loc>https://peplem.github.io/blog/series/</loc>
   </url>
 </urlset>
