@@ -1,0 +1,138 @@
+baseURL = "https://example.com"
+title = "0x4C"
+paginate = 5
+theme = "papermod"
+enableInlineShortcodes = true
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+enableEmoji = true
+
+[minify]
+disableXML = true
+
+[languages.en]
+languageName = "English"
+weight = 1
+
+[[languages.en.menu.main]]
+name = "Blog"
+url = "posts"
+weight = 5
+
+[[languages.en.menu.main]]
+name = "Categories"
+url = "categories/"
+weight = 10
+
+[[languages.en.menu.main]]
+name = "Tags"
+url = "tags/"
+weight = 15
+
+[[languages.en.menu.main]]
+name = "Search"
+url = "search/"
+weight = 20
+
+### language + rtl placeholder start ###
+
+### language + rtl placeholder end ###
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+[params]
+env = "production"
+description = ""
+author = ""
+defaultTheme = "dark"
+ShowShareButtons = true
+ShowReadingTime = true
+displayFullLangName = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowToc = true
+images = [ "" ]
+
+  [params.profileMode]
+  enabled = true
+  title = "That's all folks!"
+  subtitle = """
+  <small>Junior Malware Analyst, FPS Gamer, History and Geopolitics lover.<br> 
+  I'm searching for different points of view.<br>
+  <i>Blog</i> for my writings, <i>LinkedIn</i> for jobs, <i>Instagram</i> to check if I'm a nice guy.
+  </small>
+  """
+  # imageUrl = "https://i.imgur.com/GjtBrF0.png"
+  imageUrl = ""
+  imageTitle = "my image"
+  imageWidth = 0
+  imageHeight = 128
+
+    #[[params.profileMode.buttons]]
+    #name = "Linkedin"
+    #url = "https://linked.in"
+
+    #[[params.profileMode.buttons]]
+    #name = "Instagram"
+    #url = "https://instagr.am/pep.lem"
+
+  #[params.homeInfoParams]
+  #Title = "Semtexxx"
+  #Content = """
+#Welcome to demo of hugo's theme PaperMod.
+#- **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
+#- Do give a 🌟 on Github !
+#- PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+#"""
+
+  [[params.socialIcons]]
+  name = "instagram"
+  url = "https://instagr.am/pep.lem"
+
+  [[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/giuseppe-lembo-853a84162/"
+
+  [[params.socialIcons]]
+  name = "twitter"
+  url = "https://twitter.com/notpeplem"
+
+  #[params.editPost]
+  #URL = "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+  #Text = "Suggest Changes"
+  #appendFilePath = true
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[privacy.vimeo]
+disabled = false
+simple = true
+
+[privacy.twitter]
+disabled = false
+enableDNT = true
+simple = true
+
+[privacy.instagram]
+disabled = false
+simple = true
+
+[privacy.youtube]
+disabled = false
+privacyEnhanced = true
+
+[services.instagram]
+disableInlineCSS = true
+
+[services.twitter]
+disableInlineCSS = true

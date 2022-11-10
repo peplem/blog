@@ -1,0 +1,44 @@
+[languages.it]
+languageName = ":it:"
+languageAltTitle = "Italian"
+weight = 2
+title = ""
+
+  [languages.it.profileMode]
+  enabled = true
+  title = "PaperMod"
+  subtitle = "☄️ Veloce e 🌙 Smooth, popo come tu madre"
+
+    [[languages.it.profileMode.buttons]]
+    name = "Blog"
+    url = "posts"
+
+    [[languages.it.profileMode.buttons]]
+    name = "Tags"
+    url = "tags"
+
+[[languages.it.menu.main]]
+name = "Archive"
+url = "archives/"
+weight = 5
+
+[[languages.it.menu.main]]
+name = "Tags"
+url = "tags"
+weight = 10
+
+
+
+[languages.fa]
+languagedirection = "rtl"
+weight = 3
+title = ""
+
+  [languages.fa.homeInfoParams]
+  Title = ""
+  Content = ""
+
+[[languages.fa.menu.main]]
+name = "Null"
+url = "null.link"
+weight = 10
