@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://peplem.github.io/blog"
 title = "Peplem"
 paginate = 5
 theme = "papermod"
