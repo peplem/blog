@@ -11,6 +11,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 11 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://peplem.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Address Space Made Simple</title>
+      <link>https://peplem.xyz/posts/02-address-space-made-simple/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://peplem.xyz/posts/02-address-space-made-simple/</guid>
+      <description>From the book Windows10 system programming, a simple explanation of windows address space.
+The first 64 KB of virtual address space are unusable. These are traditionally used to catch NULL pointers. Similarly, the upper 64 KB of address space, just before system space starts, are unusable as well. In short, it means the usable address space range is 128 KB less than perhaps expected. For 64-bit processes, this is completely unnoticeable.</description>
+    </item>
+    
+    <item>
       <title>Installazione pulita driver video</title>
       <link>https://peplem.xyz/posts/01-installazione-pulita-driver-video/</link>
       <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
