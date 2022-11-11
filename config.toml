@@ -64,7 +64,8 @@ images = [ "" ]
    Hi! 
    I'm a junior Malware Analyst, FPS Gamer, History and Geopolitics lover.<br>
    I'm searching for different points of view.<br>
-   <i>Blog</i> for my writings, <i>Twitter</i> to check if I'm a nice guy.
+   <i>Blog</i> for my writings, <i>Twitter</i> to check if I'm a nice guy.<br>
+   Per i contenuti in <b>italiano</b> vai su Tags e seleziona ITA.
   """
   # imageUrl = "https://i.imgur.com/GjtBrF0.png"
   imageUrl = "https://i.imgur.com/1BpGwIA.gif"
