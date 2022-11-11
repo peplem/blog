@@ -2,20 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://peplem.xyz/posts/01-installazione-pulita-driver-video/</loc>
+    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://peplem.xyz/tags/ita/</loc>
+    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://peplem.xyz/</loc>
+    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://peplem.xyz/posts/</loc>
+    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://peplem.xyz/tags/</loc>
+    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://peplem.xyz/archives.fr/</loc>
   </url><url>
     <loc>https://peplem.xyz/archives/</loc>
   </url><url>
     <loc>https://peplem.xyz/categories/</loc>
   </url><url>
-    <loc>https://peplem.xyz/</loc>
-  </url><url>
     <loc>https://peplem.xyz/search/</loc>
   </url><url>
     <loc>https://peplem.xyz/search.fr/</loc>
   </url><url>
     <loc>https://peplem.xyz/series/</loc>
-  </url><url>
-    <loc>https://peplem.xyz/tags/</loc>
   </url>
 </urlset>
