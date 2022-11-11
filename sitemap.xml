@@ -2,31 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://peplem.github.io/blog/posts/dillinger/</loc>
-    <lastmod>2021-11-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://peplem.github.io/blog/tags/emoji/</loc>
-    <lastmod>2021-11-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://peplem.github.io/blog/</loc>
-    <lastmod>2021-11-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://peplem.github.io/blog/posts/</loc>
-    <lastmod>2021-11-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://peplem.github.io/blog/tags/</loc>
-    <lastmod>2021-11-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://peplem.github.io/blog/archives.fr/</loc>
   </url><url>
     <loc>https://peplem.github.io/blog/archives/</loc>
   </url><url>
     <loc>https://peplem.github.io/blog/categories/</loc>
   </url><url>
+    <loc>https://peplem.github.io/blog/</loc>
+  </url><url>
     <loc>https://peplem.github.io/blog/search/</loc>
   </url><url>
     <loc>https://peplem.github.io/blog/search.fr/</loc>
   </url><url>
     <loc>https://peplem.github.io/blog/series/</loc>
+  </url><url>
+    <loc>https://peplem.github.io/blog/tags/</loc>
   </url>
 </urlset>
