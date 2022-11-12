@@ -9,7 +9,17 @@
       <link>https://peplem.xyz</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 11 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://peplem.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Nov 2022 19:38:53 +0100</lastBuildDate><atom:link href="https://peplem.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Ps1 Modchip Works</title>
+      <link>https://peplem.xyz/posts/03-how-ps1-modchip-works/</link>
+      <pubDate>Sat, 12 Nov 2022 19:38:53 +0100</pubDate>
+      
+      <guid>https://peplem.xyz/posts/03-how-ps1-modchip-works/</guid>
+      <description>It is interesting, for the sake of knowledge, to analyze how console modchip works. Even if illegal, these modchips allowed a vast community of hackers to “pwn and escalate” the console they were related to. Beside that, analyzing how they work may teach us some useful security notions that we may not be aware of.
+Copy protection If we take a look back at cartridge-based consoles we can easily notice that those cartridge are pretty difficult to counterfeit.</description>
+    </item>
+    
     <item>
       <title>Address Space Made Simple</title>
       <link>https://peplem.xyz/posts/02-address-space-made-simple/</link>
