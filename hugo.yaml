@@ -90,8 +90,8 @@ params:
       url: "https://www.linkedin.com/in/giuseppe-lembo-853a84162/"
     - name: twitter
       url: "https://twitter.com/notpeplem"
-    - name: github
-      url: "https://github.com/peplem"
+    # - name: github
+    #   url: "https://github.com/peplem"
 
   #analytics:
   #  google:
