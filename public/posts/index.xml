@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Peplem</title>
-    <link>https://peplem.xyz/</link>
-    <description>Recent content on Peplem</description>
+    <title>Posts on Peplem</title>
+    <link>https://peplem.xyz/posts/</link>
+    <description>Recent content in Posts on Peplem</description>
     <image>
       <title>Peplem</title>
       <url>https://peplem.xyz</url>
       <link>https://peplem.xyz</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 08 Jul 2023 18:00:00 +0200</lastBuildDate><atom:link href="https://peplem.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Jul 2023 18:00:00 +0200</lastBuildDate><atom:link href="https://peplem.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How does AMD 3D-VCache work</title>
       <link>https://peplem.xyz/posts/04-amd-3dvcache/</link>
@@ -50,10 +50,6 @@ The first 64 KB of virtual address space are unusable. These are traditionally u
       <description>Ti è mai capitato di avere glitch grafici, cali prestazionali o crash inspiegabili delle tue app di grafica preferita o durante sessioni di gaming? In questi casi, spesso, è necessario effettuare un’installazione pulita dei driver video.
 I driver video, nel loro insieme sono la componente software che permette alla tua GPU (scheda video) di fare il suo lavoro. Operano ad un livello privilegiato del sistema operativo (kernel level o ring 0 sulla maggior parte delle architetture) e un loro malfunzionamento può portare ai problemi citati poc’anzi.</description>
     </item>
-    
-    
-    
-    
     
   </channel>
 </rss>

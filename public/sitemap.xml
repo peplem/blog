@@ -2,10 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/categories/</loc>
+    <loc>https://peplem.xyz/posts/04-amd-3dvcache/</loc>
+    <lastmod>2023-07-08T18:00:00+02:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://peplem.xyz/</loc>
+    <lastmod>2023-07-08T18:00:00+02:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://peplem.xyz/posts/</loc>
+    <lastmod>2023-07-08T18:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://peplem.xyz/posts/03-how-ps1-modchip-works/</loc>
+    <lastmod>2023-03-03T19:38:53+01:00</lastmod>
+  </url><url>
+    <loc>https://peplem.xyz/posts/02-address-space-made-simple/</loc>
+    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://peplem.xyz/posts/01-installazione-pulita-driver-video/</loc>
+    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://peplem.xyz/tags/ita/</loc>
+    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://peplem.xyz/tags/</loc>
+    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://peplem.xyz/archives.fr/</loc>
+  </url><url>
+    <loc>https://peplem.xyz/archives/</loc>
+  </url><url>
+    <loc>https://peplem.xyz/categories/</loc>
+  </url><url>
+    <loc>https://peplem.xyz/search/</loc>
+  </url><url>
+    <loc>https://peplem.xyz/search.fr/</loc>
+  </url><url>
+    <loc>https://peplem.xyz/series/</loc>
   </url>
 </urlset>

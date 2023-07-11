@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ITA on Peplem</title>
+    <link>https://peplem.xyz/tags/ita/</link>
+    <description>Recent content in ITA on Peplem</description>
+    <image>
+      <title>Peplem</title>
+      <url>https://peplem.xyz</url>
+      <link>https://peplem.xyz</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 11 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://peplem.xyz/tags/ita/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installazione pulita driver video</title>
+      <link>https://peplem.xyz/posts/01-installazione-pulita-driver-video/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://peplem.xyz/posts/01-installazione-pulita-driver-video/</guid>
+      <description>Ti è mai capitato di avere glitch grafici, cali prestazionali o crash inspiegabili delle tue app di grafica preferita o durante sessioni di gaming? In questi casi, spesso, è necessario effettuare un’installazione pulita dei driver video.
+I driver video, nel loro insieme sono la componente software che permette alla tua GPU (scheda video) di fare il suo lavoro. Operano ad un livello privilegiato del sistema operativo (kernel level o ring 0 sulla maggior parte delle architetture) e un loro malfunzionamento può portare ai problemi citati poc’anzi.</description>
+    </item>
+    
+  </channel>
+</rss>
