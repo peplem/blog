@@ -1,0 +1,130 @@
+baseURL = "https://peplem.xyz"
+title = "Peplem"
+paginate = 5
+theme = "papermod"
+enableInlineShortcodes = true
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+enableEmoji = true
+
+[minify]
+disableXML = true
+
+[languages.en]
+languageName = "English"
+weight = 1
+
+[[languages.en.menu.main]]
+name = "Blog"
+url = "posts"
+weight = 5
+
+# [[languages.en.menu.main]]
+# name = "Categories"
+# url = "categories/"
+# weight = 10
+
+[[languages.en.menu.main]]
+name = "Tags"
+url = "tags/"
+weight = 10
+
+[[languages.en.menu.main]]
+name = "Search"
+url = "search/"
+weight = 15
+
+### language + rtl placeholder start ###
+
+### language + rtl placeholder end ###
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+[params]
+env = "production"
+description = ""
+author = ""
+defaultTheme = "dark"
+ShowShareButtons = true
+ShowReadingTime = true
+displayFullLangName = true
+ShowPostNavLinks = false
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowToc = true
+images = [ "" ]
+
+  [params.profileMode]
+  enabled = true
+  title = "That's all folks!"
+  subtitle = """
+   Hi! 
+   I'm a Software Engineer, FPS Gamer, History and Geopolitics lover.<br>
+   I'm searching for different points of view.<br>
+   <i>Blog</i> for my writings, <i>Twitter</i> to check if I'm a nice guy.<br>
+   Per i contenuti in <b>italiano</b> vai su Tags e seleziona ITA.
+  """
+  # imageUrl = "https://i.imgur.com/GjtBrF0.png"
+  imageUrl = "https://i.imgur.com/1BpGwIA.gif"
+  imageTitle = "cover"
+  imageWidth = 0
+  imageHeight = 128
+
+  # [[params.socialIcons]]
+  # name = "instagram"
+  # url = "https://instagr.am/pep.lem"
+
+  # [[params.socialIcons]]
+  # name = "linkedin"
+  # url = "https://www.linkedin.com/in/giuseppe-lembo-853a84162/"
+
+  # [[params.socialIcons]]
+  # name = "email"
+  # url = "mailto:example@example.com"
+
+  [[params.socialIcons]]
+  name = "twitter"
+  url = "https://twitter.com/notpeplem"
+
+   [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/peplem"
+
+  #[params.editPost]
+  #URL = "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+  #Text = "Suggest Changes"
+  #appendFilePath = true
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[privacy.vimeo]
+disabled = false
+simple = true
+
+[privacy.twitter]
+disabled = false
+enableDNT = true
+simple = true
+
+[privacy.instagram]
+disabled = false
+simple = true
+
+[privacy.youtube]
+disabled = false
+privacyEnhanced = true
+
+[services.instagram]
+disableInlineCSS = true
+
+[services.twitter]
+disableInlineCSS = true
