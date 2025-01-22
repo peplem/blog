@@ -1,4 +1,4 @@
-baseURL: https://peplem.xyz/
+baseURL: https://peplem.com/
 languageCode: en-us
 title: Peplem
 theme: PaperMod
@@ -8,16 +8,14 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-# googleAnalytics: UA-123-45
-
 minify:
   disableXML: true
   minifyOutput: true
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
+  title: peplem
+  description: "Just a place for my, hopefully, interesting stuff"
   keywords: [Blog, Portfolio]
   author: 
   # author: ["Me", "You"] # multiple authors
@@ -63,7 +61,7 @@ params:
     subtitle: |
       Hi!
 
-      I'm a Software Engineer, FPS Gamer, History and Geopolitics lover.
+      I'm a Cybersec Software Engineer, FPS Gamer, History and Geopolitics lover.
 
       I'm searching for different points of view.
 
@@ -90,8 +88,8 @@ params:
       url: "https://www.linkedin.com/in/giuseppe-lembo-853a84162/"
     - name: twitter
       url: "https://twitter.com/notpeplem"
-    # - name: github
-    #   url: "https://github.com/peplem"
+     - name: github
+       url: "https://github.com/peplem"
 
   #analytics:
   #  google:
