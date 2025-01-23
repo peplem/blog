@@ -1,7 +1,7 @@
 .main {
     position: relative;
     min-height: calc(100vh - var(--header-height) - var(--footer-height));
-    max-width: calc(var(--main-width) + var(--gap) * 14);
+    max-width: calc(var(--main-width) + var(--gap) * 7);
     margin: auto;
     padding: var(--gap);
 }
@@ -27,12 +27,14 @@
     margin-inline-start: auto;
 }
 
-.social-icons {
-    padding: 12px 0;
-}
 
-.social-icons a:not(:last-of-type) {
-    margin-inline-end: 12px;
+.social-icons a {
+    border-radius: 50%;
+    background-color: var(--theme);
+    display: inline-flex;
+    padding: 15px;
+    margin-block-start: 50px;
+    margin-inline-start: 5px;
 }
 
 .social-icons a svg {

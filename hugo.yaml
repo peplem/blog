@@ -61,13 +61,13 @@ params:
     subtitle: |
       Hi!
 
-      I'm a Cybersec Software Engineer, FPS Gamer, History and Geopolitics lover.
+      I'm a Cyber Security Software Engineer from Rome.
 
-      I'm searching for different points of view.
+      This place is a personal dev blog that hosts all my findings and thoughts about my work.
 
       **Blog** for my writings, **Twitter** to check if I'm a nice guy.
 
-      Per i contenuti in <b>italiano</b> vai su Tags e seleziona ITA.
+      Per i contenuti in **italiano** vai su Tags e seleziona ITA.
     imageUrl: "https://i.imgur.com/1BpGwIA.gif"
     imageWidth: 120
     imageHeight: 120
@@ -85,9 +85,9 @@ params:
 
   socialIcons:
     - name: linkedin
-      url: "https://www.linkedin.com/in/giuseppe-lembo-853a84162/"
-    - name: twitter
-      url: "https://twitter.com/notpeplem"
+      url: "https://www.linkedin.com/in/giuseppe-lembo/"
+    - name: x
+      url: "https://x.com/notpeplem"
     - name: github
       url: "https://github.com/peplem"
 

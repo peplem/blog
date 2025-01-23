@@ -2,54 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Peplem</title>
-    <link>https://peplem.xyz/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Peplem</description>
     <image>
       <title>Peplem</title>
-      <url>https://peplem.xyz</url>
-      <link>https://peplem.xyz</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 08 Jul 2023 18:00:00 +0200</lastBuildDate><atom:link href="https://peplem.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.142.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Jul 2023 18:00:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How does AMD 3D-VCache work</title>
-      <link>https://peplem.xyz/posts/04-amd-3dvcache/</link>
+      <link>http://localhost:1313/posts/04-amd-3dvcache/</link>
       <pubDate>Sat, 08 Jul 2023 18:00:00 +0200</pubDate>
-      
-      <guid>https://peplem.xyz/posts/04-amd-3dvcache/</guid>
-      <description>Inter chip connection Chip inter-connection technologies are adoperated to connect two chips together allowing them to operate together. The number of “connecting points” is different from one technology to another. Starting with the less-dense C4 (controlled collapse chip connection), some vendors moved to a more dense technique called Micro Bump. In this second scenario you can easily notice that the dots representing the inter-chip connections are much more dense.
-AMD 3D V-Cache is implemented with a new approach: Hybrid Bond 3D.</description>
+      <guid>http://localhost:1313/posts/04-amd-3dvcache/</guid>
+      <description>&lt;h1 id=&#34;inter-chip-connection&#34;&gt;Inter chip connection&lt;/h1&gt;
+&lt;p&gt;&lt;img alt=&#34;c4_tech.png&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/stat-assets/04/c4_tech.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Chip inter-connection technologies are adoperated to connect two chips together allowing them to operate together. The number of “connecting points” is different from one technology to another. Starting with the less-dense C4 (controlled collapse chip connection), some vendors moved to a more dense technique called &lt;strong&gt;Micro Bump&lt;/strong&gt;. In this second scenario you can easily notice that the dots representing the inter-chip connections are much more dense.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>How Ps1 Modchip Works</title>
-      <link>https://peplem.xyz/posts/03-how-ps1-modchip-works/</link>
+      <link>http://localhost:1313/posts/03-how-ps1-modchip-works/</link>
       <pubDate>Fri, 03 Mar 2023 19:38:53 +0100</pubDate>
-      
-      <guid>https://peplem.xyz/posts/03-how-ps1-modchip-works/</guid>
-      <description>It is interesting, for the sake of knowledge, to analyze how console modchip works. Even if illegal, these modchips allowed a vast community of hackers to “pwn and escalate” the console they were related to. Beside that, analyzing how they work may teach us some useful security notions that we may not be aware of.
-Copy protection If we take a look back at cartridge-based consoles we can easily notice that those cartridge are pretty difficult to counterfeit.</description>
+      <guid>http://localhost:1313/posts/03-how-ps1-modchip-works/</guid>
+      <description>&lt;p&gt;It is interesting, for the sake of knowledge, to analyze how console modchip works. Even if illegal, these modchips allowed a vast community of hackers to “pwn and escalate” the console they were related to. Beside that, analyzing how they work may teach us some useful security notions that we may not be aware of.&lt;/p&gt;
+&lt;h2 id=&#34;copy-protection&#34;&gt;Copy protection&lt;/h2&gt;
+&lt;p&gt;If we take a look back at cartridge-based consoles we can easily notice that those cartridge are pretty difficult to counterfeit.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Address Space Made Simple</title>
-      <link>https://peplem.xyz/posts/02-address-space-made-simple/</link>
+      <link>http://localhost:1313/posts/02-address-space-made-simple/</link>
       <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://peplem.xyz/posts/02-address-space-made-simple/</guid>
-      <description>From the book Windows10 system programming, a simple explanation of windows address space.
-The first 64 KB of virtual address space are unusable. These are traditionally used to catch NULL pointers. Similarly, the upper 64 KB of address space, just before system space starts, are unusable as well. In short, it means the usable address space range is 128 KB less than perhaps expected. For 64-bit processes, this is completely unnoticeable.</description>
+      <guid>http://localhost:1313/posts/02-address-space-made-simple/</guid>
+      <description>&lt;p&gt;From the book Windows10 system programming, a simple explanation of windows address space.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;1.png&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/stat-assets/02/1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The first 64 KB of virtual address space are unusable. These are traditionally used to catch NULL pointers. Similarly, the upper 64 KB of address space, just before system space starts, are unusable as well. In short, it means the usable address space range is 128 KB less than perhaps expected. For 64-bit processes, this is completely unnoticeable.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Installazione pulita driver video</title>
-      <link>https://peplem.xyz/posts/01-installazione-pulita-driver-video/</link>
+      <link>http://localhost:1313/posts/01-installazione-pulita-driver-video/</link>
       <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://peplem.xyz/posts/01-installazione-pulita-driver-video/</guid>
-      <description>Ti è mai capitato di avere glitch grafici, cali prestazionali o crash inspiegabili delle tue app di grafica preferita o durante sessioni di gaming? In questi casi, spesso, è necessario effettuare un’installazione pulita dei driver video.
-I driver video, nel loro insieme sono la componente software che permette alla tua GPU (scheda video) di fare il suo lavoro. Operano ad un livello privilegiato del sistema operativo (kernel level o ring 0 sulla maggior parte delle architetture) e un loro malfunzionamento può portare ai problemi citati poc’anzi.</description>
+      <guid>http://localhost:1313/posts/01-installazione-pulita-driver-video/</guid>
+      <description>&lt;p&gt;Ti è mai capitato di avere glitch grafici, cali prestazionali o crash inspiegabili delle tue app di grafica preferita o durante sessioni di gaming? In questi casi, spesso, è necessario effettuare un’installazione pulita dei driver video.&lt;/p&gt;
+&lt;p&gt;I driver video, nel loro insieme sono la componente software che permette alla tua GPU (scheda video) di fare il suo lavoro. Operano ad un livello privilegiato del sistema operativo (kernel level o ring 0 sulla maggior parte delle architetture) e un loro malfunzionamento può portare ai problemi citati poc’anzi.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

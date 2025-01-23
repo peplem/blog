@@ -2,40 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://peplem.xyz/posts/04-amd-3dvcache/</loc>
+    <loc>http://localhost:1313/posts/04-amd-3dvcache/</loc>
     <lastmod>2023-07-08T18:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://peplem.xyz/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2023-07-08T18:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://peplem.xyz/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2023-07-08T18:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://peplem.xyz/posts/03-how-ps1-modchip-works/</loc>
+    <loc>http://localhost:1313/posts/03-how-ps1-modchip-works/</loc>
     <lastmod>2023-03-03T19:38:53+01:00</lastmod>
   </url><url>
-    <loc>https://peplem.xyz/posts/02-address-space-made-simple/</loc>
+    <loc>http://localhost:1313/posts/02-address-space-made-simple/</loc>
     <lastmod>2022-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://peplem.xyz/posts/01-installazione-pulita-driver-video/</loc>
+    <loc>http://localhost:1313/posts/01-installazione-pulita-driver-video/</loc>
     <lastmod>2022-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://peplem.xyz/tags/ita/</loc>
+    <loc>http://localhost:1313/tags/ita/</loc>
     <lastmod>2022-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://peplem.xyz/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2022-11-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://peplem.xyz/archives.fr/</loc>
+    <loc>http://localhost:1313/archives.fr/</loc>
   </url><url>
-    <loc>https://peplem.xyz/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
   </url><url>
-    <loc>https://peplem.xyz/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://peplem.xyz/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
   </url><url>
-    <loc>https://peplem.xyz/search.fr/</loc>
-  </url><url>
-    <loc>https://peplem.xyz/series/</loc>
+    <loc>http://localhost:1313/search.fr/</loc>
   </url>
 </urlset>
